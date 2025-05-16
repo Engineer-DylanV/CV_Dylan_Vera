@@ -1,29 +1,28 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Dylan Alessandro Vera Peñuela
+**Profesión:** _Tecnologo en analisis y desarrollo de software
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-
+- **Teléfono:** +57 321 9006140
+- **Email:** [dverapenuela@gmail.com](mailto:dverapenuela@gmail.com)
+- 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Programador.
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **SENA** _(2025 - Actualidad)_
+- Programador.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **SENA** _(2022 - 2024)_
+- Bachiller y Tecnico en asistencia administrativa 
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Conceptos Basicos de HTML**
+- **Fortalezas en asistencia administrativa**
+- **Ingles basico A2**
 
 ---
 
