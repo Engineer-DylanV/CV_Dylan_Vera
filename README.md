@@ -7,7 +7,7 @@
 ## 📞 Contacto
 - **Teléfono:** +57 321 9006140
 - **Email:** [dverapenuela@gmail.com](mailto:dverapenuela@gmail.com)
-- 
+
 ## 🏢 Experiencia Laboral
 ### **SENA** _(2025 - Actualidad)_
 - Programador.
