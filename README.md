@@ -2,7 +2,7 @@
 # Hoja de Vida
 
 ## Dylan Alessandro Vera Peñuela
-**Profesión:** _Tecnologo en analisis y desarrollo de software
+**Profesión:** Tecnologo en analisis y desarrollo de software
 
 ## 📞 Contacto
 - **Teléfono:** +57 321 9006140
